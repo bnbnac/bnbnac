@@ -54,7 +54,7 @@ Spring boot, JPA
 &nbsp;
 &nbsp;
 &nbsp;
-### (개인) 추출 서버 augment-extractor([Github](https://github.com/bnbnac/augment-extractor))
+### (개인) tftad.com 보조서버([Github](https://github.com/bnbnac/augment-extractor))
 
 클라이언트가 영상 게시를 요청하면 [tftad 서버](https://github.com/bnbnac/tftad)는 Augment-Extractor로 관련 정보를 전송합니다. Augment-Extractor는 비디오를 다운받고, 분석하고, 필요한 장면을 추출하여 storage 서버에 저장합니다.
 
