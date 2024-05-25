@@ -69,16 +69,4 @@ Spring boot, JPA
 - [worker queue를 유지하여 현재 작업 정보 반환하는 기능을 갖습니다.(Blog)](https://velog.io/@bnbnac/worker-queue%EB%A5%BC-%EC%9C%A0%EC%A7%80%ED%95%98%EC%97%AC-%ED%98%84%EC%9E%AC-%EC%9E%91%EC%97%85-%EC%A0%95%EB%B3%B4-%EB%B0%98%ED%99%98%ED%95%98%EA%B8%B0)
 - [멀티스레딩을 활용하여 작업속도를 향상시킵니다.(Blog)](https://velog.io/@bnbnac/%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%94%A9)
 
-&nbsp;
-&nbsp;
-&nbsp;
-### (개인) tftad.com 프론트엔드([Github](https://github.com/bnbnac/tftad-web))
-
-**배포: [tftad.com](https://tftad.com) (홈서버)**
-
-[tftad.com](https://tftad.com/)은 온라인게임 [Team-Fight-Tactics(전략적 팀 전투, 롤토체스)](https://teamfighttactics.leagueoflegends.com/) 요소 중 하나인 증강체 선택 관련 웹사이트입니다. 유튜브 크리에이터는 이곳에 본인의 플레이 영상을 게시할 수 있습니다. 영상에서 증강체 선택 장면이 추출되어 게시됩니다.
-
-특징
-
-- 개발 편의성을 위해 React를 사용했습니다.
 
