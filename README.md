@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ## 능동적인 개발자 홍성진입니다
 
 **Email**: bnbnac@naver.com
@@ -69,4 +70,5 @@ Spring boot, JPA
 - [worker queue를 유지하여 현재 작업 정보 반환하는 기능을 갖습니다.(Blog)](https://velog.io/@bnbnac/worker-queue%EB%A5%BC-%EC%9C%A0%EC%A7%80%ED%95%98%EC%97%AC-%ED%98%84%EC%9E%AC-%EC%9E%91%EC%97%85-%EC%A0%95%EB%B3%B4-%EB%B0%98%ED%99%98%ED%95%98%EA%B8%B0)
 - [멀티스레딩을 활용하여 작업속도를 향상시킵니다.(Blog)](https://velog.io/@bnbnac/%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%94%A9)
 
+-->
 
